@@ -1,0 +1,427 @@
+{
+  "main": {
+    "id": "021dd1c5a51f9f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2a09f381f0d9b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52bc6adc62521bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Введение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Введение"
+            }
+          },
+          {
+            "id": "b311ea13fbbe23ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дополнительно/Ресурсы/Деньги и сокровища.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Деньги и сокровища"
+            }
+          }
+        ]
+      },
+      {
+        "id": "932bb6beae2b6446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7653a2f30324f475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дополнительно/Заклинания.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Заклинания"
+            }
+          },
+          {
+            "id": "2afdec1f69df8662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Классы/Классы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Классы"
+            }
+          },
+          {
+            "id": "a591919533af03b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Расы/Расы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Расы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c134327d1c059ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "39243644e83c5482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3b0309bb3ab723",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5468666e05f6998f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "25d0015baa9eba8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7067ff291d0c3ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e7f0f73ef22aa17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21974e61f4bd0768",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ProgrammingSummaries/Графы/Задача о паросочетании в двудольном графе.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Задача о паросочетании в двудольном графе"
+            }
+          },
+          {
+            "id": "a1427136952b0baf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ProgrammingSummaries/Графы/Задача о паросочетании в двудольном графе.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Задача о паросочетании в двудольном графе"
+            }
+          },
+          {
+            "id": "34127a3ffec33e1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ProgrammingSummaries/Графы/Задача о паросочетании в двудольном графе.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Задача о паросочетании в двудольном графе"
+            }
+          },
+          {
+            "id": "c329760c400e27b8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "399e746a643560a3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "5e3456d89ec3935b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "69b3b13c2b6477de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "d344378c4b5d6bc7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "5ddaedb6190d8a45",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "ee27806f6d328f64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "b85dc52aab2bade1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "db79012a5cf12d78",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "48805efa35f712d9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "e13be74c5937fdba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "43dc5e6ee45d9ee1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "4a9557272b52e742",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "7cb8d70d08d72ec6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "ee2693b8133cfe57",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "e05f42cc780f2fbf",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "fe3b0309bb3ab723",
+  "lastOpenFiles": [
+    "Дополнительно/Ресурсы",
+    "Введение.md",
+    "Без названия.md",
+    "Расы/Расы.md",
+    "Дополнительно/Ресурсы/Броня.md",
+    "Дополнительно/Ресурсы/Деньги и сокровища.md",
+    "Дополнительно/Заговоры.md",
+    "Дополнительно/Заклинания.md",
+    "Дополнительно/Ресурсы/Инструменты и утилиты.md",
+    "Дополнительно/Ресурсы/Запасы и ресурсы.md",
+    "Дополнительно/Ресурсы/Оружие.md",
+    "[Классы].md",
+    "Классы/Классы.md",
+    "Дополнительно",
+    "Классы.md",
+    "Расы",
+    "Классы",
+    "ProgrammingSummaries/Sparce table (Разреженные таблицы).md",
+    "Цели на лето.md",
+    "Презентация.md",
+    "ProgrammingSummaries/Корневая декомпозиция.md",
+    "LaTex/LaTex. Начало.md",
+    "ProgrammingSummaries/Тернарный (троичный) поиск.md",
+    "Cache/API-05_new (1).pdf",
+    "LaTex",
+    "Cache/API-06_new (1).pdf",
+    "ChatBot/Flask.md",
+    "ChatBot/Введение.md",
+    "ChatBot/AIOGRAM.md",
+    "Excalidraw/Drawing 2025-03-15 17.00.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-16 13.21.59.excalidraw.md",
+    "Own/Без названия.md",
+    "~$мминг - инструкция.docx",
+    "Own",
+    "Cache/API-07_справочник.pdf",
+    "Cache/API-09_Справочник.pdf",
+    "geogebra-export.svg",
+    "Pasted image 20250204191334.png",
+    "ProgrammingSummaries/Графы/Без названия.canvas"
+  ]
+}
